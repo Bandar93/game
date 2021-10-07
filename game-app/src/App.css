@@ -1,0 +1,12 @@
+.continer {
+  background-color: coral;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: cornflowerblue;
+  height: 100vh;
+}
